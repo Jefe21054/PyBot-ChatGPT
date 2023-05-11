@@ -14,7 +14,7 @@ Stand out in the AI market by programming custom chatbots with Python and the Ch
 ### Project Working with Jupyter Notebooks
 
 1. Chatbot in Jupyter Notebook
-   ![Chatbot in Jupyter Notebook](screenshots/Jupyter_nb.png)
+   ![Chatbot in Jupyter Notebook](screenshots/Jupyter-nb.png)
 
 ### Project Working in the Browser with Gradio
 
