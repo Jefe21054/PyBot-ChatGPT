@@ -3,3 +3,6 @@ gradio
 langchain
 gpt-index
 python-dotenv
+transformers
+tensorflow
+regex
