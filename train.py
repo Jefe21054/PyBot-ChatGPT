@@ -1,7 +1,5 @@
-from llama_index import SimpleDirectoryReader, GPTListIndex, GPTVectorStoreIndex, LLMPredictor, PromptHelper, ServiceContext, StorageContext, load_index_from_storage
+from llama_index import SimpleDirectoryReader, GPTVectorStoreIndex, LLMPredictor, PromptHelper, ServiceContext
 import os
-import gradio as gr
-from langchain.embeddings import OpenAIEmbeddings
 from langchain import OpenAI
 from dotenv import load_dotenv
 
