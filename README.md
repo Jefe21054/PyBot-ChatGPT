@@ -94,7 +94,7 @@ To get started with this chatbot project, follow the instructions below.
 
 ## OpenAI API Documentation
 
-For more information on the OpenAI API and how to use it in your projects, please refer to the [OpenAI API Documentation](https://docs.openai.com/).
+For more information on the OpenAI API and how to use it in your projects, please refer to the [OpenAI API Documentation](https://platform.openai.com/docs/api-reference/).
 
 ## Contributing
 
